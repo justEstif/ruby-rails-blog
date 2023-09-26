@@ -19,3 +19,5 @@ Migrations are used to alter the structure of an application's database. In Rail
 ---
 
 Using `rufo` and `htmlbeautifier` for ruby and erb files respectively
+
+---
