@@ -11,3 +11,7 @@ with an action, and a view.
 # generate a controller with index action with out routes
 bin/rails generate controller Articles index --skip-routes
 ```
+
+---
+
+Migrations are used to alter the structure of an application's database. In Rails applications, migrations are written in Ruby so that they can be database-agnostic.
