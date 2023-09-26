@@ -15,3 +15,7 @@ bin/rails generate controller Articles index --skip-routes
 ---
 
 Migrations are used to alter the structure of an application's database. In Rails applications, migrations are written in Ruby so that they can be database-agnostic.
+
+---
+
+Using `rufo` and `htmlbeautifier` for ruby and erb files respectively
